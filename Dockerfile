@@ -1,4 +1,4 @@
-# zweite änderung in gleicher datei für einen konflikt
+zweite bzw dritte änderung in gleicher datei für einen konflikt gefixt
 # fix eines probs
 
 ARG DOCKER_BASE
