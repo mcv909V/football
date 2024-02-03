@@ -1,3 +1,6 @@
 fehler
+<<<<<<< HEAD
 fehler2
 fehler für reset
+=======
+>>>>>>> parent of bb93e96 (fehler rückgängig?)
